@@ -54,6 +54,9 @@ def clean_data(df):
                 df_clean[col] = df_clean[col].astype(float)
                 df_clean[col] = df_clean[col].div(100)
 
+    # clean players name
+    df_clean["Player"] = df_clean["Player"].str.replace("\xa0", " ")
+
     return df_clean
 
 if __name__ == "__main__":
