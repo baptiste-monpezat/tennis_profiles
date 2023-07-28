@@ -26,10 +26,12 @@ Based on the data available on [tennisabstract.com](https://tennisabstract.com/)
     - FH Wnr%: Forehand winner percentage. The percentage of topspin forehands (excluding forced errors) that result in winners or induced forced errors.
     - FH DTL Wnr%: Forehand down-the-line winning percentage.
     - Forehand inside-out winning percentage. 
+    - FHP/100
 
 - Backhand
     - BH Wnr%: Backhand winner percentage. 
     - BH DTL Wnr%: Backhand down-the-line winner percentage
+    - BHP/100:  Forehand potency per 100 forehands
 
 - Volley
     - Net W%: Net point winning percentage. The percentage of net points won by this player.
@@ -42,3 +44,4 @@ Based on the data available on [tennisabstract.com](https://tennisabstract.com/)
 - Agressivity: 
     - SnV Freq%: Serve-and-volley frequency
     - SnV W%:Serve-and-volley winning percentage.
+
