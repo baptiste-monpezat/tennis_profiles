@@ -1,0 +1,5 @@
+*.pyc
+*-checkpoint.ipynb
+.DS_Store
+# except .vscode folder
+!.vscode/*
